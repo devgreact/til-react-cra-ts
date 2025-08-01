@@ -23,7 +23,8 @@
   "rules": {
     "react/react-in-jsx-scope": "off",
     "prettier/prettier": "error", //포맷 문제 (세미콜론 등)
-    "@typescript-eslint/no-unused-vars": "warn"
+    "@typescript-eslint/no-unused-vars": "warn",
+    "jsx-a11y/no-noninteractive-tabindex": "off"
   },
   "settings": {
     "react": {
